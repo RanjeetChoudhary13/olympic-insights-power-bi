@@ -33,8 +33,7 @@ The objective of this project is to transform historical Olympic data into an in
 
 This page provides a high-level overview of Olympic editions, total events, participating countries, leading medal-winning countries, and historical medal trends.
 
-![Global Medal Overview](<img width="1325" height="741" alt="01-global-medal-overview" src="https://github.com/user-attachments/assets/7b966034-0c2d-4b13-b374-0beada19954b" />
-)
+(01-global-medal-overview.png)
 
 ### 2. Country Insights
 
