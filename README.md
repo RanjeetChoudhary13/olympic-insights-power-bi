@@ -198,9 +198,8 @@ olympic-insights-power-bi/
 │   ├── 05-host-country-analysis.png
 │   └── 06-gender-demographics.png
 ├── docs/
-│   └── Olympic_Insights_Dashboard.pdf
-└── data/
-    └── README.md
+   └── Olympic_Insights_Dashboard.pdf
+
 ```
 
 ## How to View the Project
