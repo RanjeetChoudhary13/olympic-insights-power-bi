@@ -1,4 +1,3 @@
-<img width="1325" height="741" alt="01-global-medal-overview" src="https://github.com/user-attachments/assets/c6143a86-0d5e-4d3a-9182-5795b7a9fb87" />
 # Olympic Insights Using Data Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
