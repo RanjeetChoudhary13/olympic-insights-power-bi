@@ -77,12 +77,12 @@ The project was developed using six Olympic CSV datasets:
 
 | Dataset | Description |
 | --- | --- |
-| `Olympic_Athlete_Bio(2).csv` | Athlete profile and demographic information |
-| `Olympic_Athlete_Event_Results(1).csv` | Athlete-level participation and medal results |
-| `Olympic_Games_Medal_Tally(1).csv` | Official country medal tally by Olympic edition |
-| `Olympic_Results(1).csv` | Olympic event and result information |
-| `Olympics_Country(1).csv` | Country and NOC reference information |
-| `Olympics_Games(1).csv` | Olympic edition, year, city, season, and host information |
+| `Olympic_Athlete_Bio.csv` | Athlete profile and demographic information |
+| `Olympic_Athlete_Event_Results.csv` | Athlete-level participation and medal results |
+| `Olympic_Games_Medal_Tally.csv` | Official country medal tally by Olympic edition |
+| `Olympic_Results.csv` | Olympic event and result information |
+| `Olympics_Country.csv` | Country and NOC reference information |
+| `Olympics_Games.csv` | Olympic edition, year, city, season, and host information |
 
 The raw CSV files are not stored in this repository because some source files exceed GitHub's browser upload limit.
 
