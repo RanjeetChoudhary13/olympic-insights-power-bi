@@ -33,37 +33,43 @@ The objective of this project is to transform historical Olympic data into an in
 
 This page provides a high-level overview of Olympic editions, total events, participating countries, leading medal-winning countries, and historical medal trends.
 
-![Global Medal Overview](screenshots/01-global-medal-overview.png)
+![Global Medal Overview](<img width="1325" height="741" alt="01-global-medal-overview" src="https://github.com/user-attachments/assets/7b966034-0c2d-4b13-b374-0beada19954b" />
+)
 
 ### 2. Country Insights
 
 This page analyzes country-level athlete representation, medal efficiency, medal distribution, leading sports, and year-wise medal performance.
 
-![Country Insights](screenshots/02-country-insights.png)
+![Country Insights](<img width="1322" height="742" alt="02-country-insights" src="https://github.com/user-attachments/assets/86d2e54e-a3f4-4fde-945a-ba827dde5884" />
+)
 
 ### 3. Athlete Spotlight
 
 This page highlights leading medal-winning athletes, Olympic appearances, medal-winning age groups, gender distribution, and the youngest and oldest medal winners.
 
-![Athlete Spotlight](screenshots/03-athlete-spotlight.png)
+![Athlete Spotlight](<img width="1325" height="742" alt="03-athlete-spotlight" src="https://github.com/user-attachments/assets/16cdd401-1cd0-4ac4-aead-b923a5f2103c" />
+)
 
 ### 4. Sport & Event Analysis
 
 This page explores sport-wise medal trends, athlete participation, top sports, and country dominance across different Olympic sports.
 
-![Sport and Event Analysis](screenshots/04-sport-event-analysis.png)
+![Sport and Event Analysis](<img width="1325" height="742" alt="04-sport-event-analysis" src="https://github.com/user-attachments/assets/9c5296d9-150c-4b02-a302-20218cef26fe" />
+)
 
 ### 5. Host Country Analysis
 
 This page examines Olympic hosting patterns and compares the medal performance of host and non-host countries.
 
-![Host Country Analysis](screenshots/05-host-country-analysis.png)
+![Host Country Analysis](<img width="1330" height="742" alt="05-host-country-analysis" src="https://github.com/user-attachments/assets/39be4816-2763-4e2f-9d75-ffcd0e151059" />
+)
 
 ### 6. Gender & Demographics
 
 This page analyzes male and female athlete participation, gender-wise medal winners, leading sports by gender, and athlete participation across age groups.
 
-![Gender and Demographics](screenshots/06-gender-demographics.png)
+![Gender and Demographics](<img width="1323" height="742" alt="06-gender-demographics" src="https://github.com/user-attachments/assets/3806491b-1a7f-4630-b3fd-06faa931d9a9" />
+)
 
 ## Dataset Information
 
