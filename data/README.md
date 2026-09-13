@@ -8,12 +8,12 @@ The raw Olympic CSV files are not included in this repository because some sourc
 
 ## Required Files
 
-- Olympic_Athlete_Bio(2).csv
-- Olympic_Athlete_Event_Results(1).csv
-- Olympic_Games_Medal_Tally(1).csv
-- Olympic_Results(1).csv
-- Olympics_Country(1).csv
-- Olympics_Games(1).csv
+- Olympic_Athlete_Bio.csv
+- Olympic_Athlete_Event_Results.csv
+- Olympic_Games_Medal_Tally.csv
+- Olympic_Results.csv
+- Olympics_Country.csv
+- Olympics_Games.csv
 
 ## Power BI Setup
 
